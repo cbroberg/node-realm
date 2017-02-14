@@ -1,0 +1,20 @@
+{
+  "name": "node-realm",
+  "version": "1.0.0",
+  "description": "Basic understanding og Node.js and Realm DB.",
+  "main": "./server/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbroberg/node-realm.git"
+  },
+  "author": "Christian Broberg",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cbroberg/node-realm/issues"
+  },
+  "homepage": "https://github.com/cbroberg/node-realm#readme",
+  "dependencies": {
+    "realm": "^1.0.2"
+  }
+}
