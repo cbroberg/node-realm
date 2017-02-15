@@ -7,7 +7,4 @@ bundle.js
 npm-debug.log
 run.log
 /.idea
-/server/default.realm.management/
-/server/realm-object-server/
-default.realm
-default.realm.lock
+realms/
