@@ -9,3 +9,5 @@ run.log
 /.idea
 /server/default.realm.management/
 /server/realm-object-server/
+default.realm
+default.realm.lock
